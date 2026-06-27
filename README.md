@@ -44,3 +44,6 @@ AI Resume Analyzer is a web application that helps users analyze their resumes a
 ## Author
 
 Vishnu Vardhini Udi
+
+## 🌐 Live Demo
+👉 https://ai-resume-analyzer-tamdrl2on6pnueerphecpp.streamlit.app/
